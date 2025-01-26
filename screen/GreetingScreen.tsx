@@ -5,7 +5,7 @@ import { useNavigation } from '@react-navigation/native';
 const GreetingScreen = () => {
   return (
     <View>
-      <Text>greetingScreen</Text>
+      <Text>hi</Text>
     </View>
   )
 }
