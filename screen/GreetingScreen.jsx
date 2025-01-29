@@ -5,8 +5,10 @@ import { useNavigation } from "@react-navigation/native";
 const GreetingScreen = () => {
   const navigation = useNavigation();
   const handleStartButton = () => {
-    navigation.navigate("Post");
+    navigation.navigate("Second");
   };
+  
+
   return (
     <View
       style={{
